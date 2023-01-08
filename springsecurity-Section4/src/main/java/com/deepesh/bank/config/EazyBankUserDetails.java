@@ -37,4 +37,5 @@ public class EazyBankUserDetails implements UserDetailsService {
 	}
 
 
+
 }
